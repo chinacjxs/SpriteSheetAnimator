@@ -1,0 +1,4364 @@
+fileFormatVersion: 2
+guid: 6dfdcfa6ddf2eb64eae2d98dbe7aa127
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8695413560283879346
+    second: crusader_attack_00007
+  - first:
+      213: 9188935551641046294
+    second: crusader_attack_00008
+  - first:
+      213: 1524862275225703918
+    second: crusader_attack_00009
+  - first:
+      213: 5837552589023262047
+    second: crusader_attack_00013
+  - first:
+      213: 2401109757275947741
+    second: crusader_attack_00014
+  - first:
+      213: -4822759885459612548
+    second: crusader_attack_00015
+  - first:
+      213: 4829900081713696938
+    second: crusader_attack_20003
+  - first:
+      213: -6241760566315533323
+    second: crusader_attack_20004
+  - first:
+      213: 6251397034967675594
+    second: crusader_attack_20005
+  - first:
+      213: 8673624344313727783
+    second: crusader_attack_30004
+  - first:
+      213: -3433865672825402331
+    second: crusader_attack_30005
+  - first:
+      213: 5675876669045066971
+    second: crusader_attack_40011
+  - first:
+      213: -7611640076937370141
+    second: crusader_attack_40012
+  - first:
+      213: 8577582057866971847
+    second: crusader_attack_50011
+  - first:
+      213: 7388248633245324353
+    second: crusader_attack_50012
+  - first:
+      213: -6669175662274861261
+    second: crusader_attack_60007
+  - first:
+      213: -7814169039205905032
+    second: crusader_attack_60008
+  - first:
+      213: 3725129208982299333
+    second: crusader_attack_60011
+  - first:
+      213: -8672412463933843252
+    second: crusader_attack_70007
+  - first:
+      213: 8355145817843951660
+    second: crusader_attack_70008
+  - first:
+      213: 5648948275684557205
+    second: crusader_attack_70009
+  - first:
+      213: -6258349925537715358
+    second: crusader_attack_70010
+  - first:
+      213: -7744559957776541885
+    second: crusader_attack_70011
+  - first:
+      213: 8544407232420365155
+    second: crusader_attack_70013
+  - first:
+      213: -8434415458886988866
+    second: crusader_attack_70014
+  - first:
+      213: -4862035828178572783
+    second: crusader_block_00002
+  - first:
+      213: 2071314135685740760
+    second: crusader_block_00003
+  - first:
+      213: 3680143696368187575
+    second: crusader_block_00004
+  - first:
+      213: -1509469282869805500
+    second: crusader_block_00005
+  - first:
+      213: -4910001499838382302
+    second: crusader_block_00011
+  - first:
+      213: -6978719261196152333
+    second: crusader_block_00012
+  - first:
+      213: -6035883112575988944
+    second: crusader_block_00013
+  - first:
+      213: 5816183023463496714
+    second: crusader_block_10000
+  - first:
+      213: -4447689893026240047
+    second: crusader_block_10001
+  - first:
+      213: 1405876090873308856
+    second: crusader_block_10002
+  - first:
+      213: -7483994367890247622
+    second: crusader_block_10004
+  - first:
+      213: -1792618189853272603
+    second: crusader_block_10010
+  - first:
+      213: -1661132753645158211
+    second: crusader_block_10011
+  - first:
+      213: 3130016152658446825
+    second: crusader_block_10012
+  - first:
+      213: 3185897664489793861
+    second: crusader_block_10013
+  - first:
+      213: 3127682303733229429
+    second: crusader_block_10014
+  - first:
+      213: 3118460130266771242
+    second: crusader_block_10015
+  - first:
+      213: -5600392970656056594
+    second: crusader_block_70000
+  - first:
+      213: -1697295247425761463
+    second: crusader_block_70001
+  - first:
+      213: -4058560018233009683
+    second: crusader_block_70002
+  - first:
+      213: -3169285369017850410
+    second: crusader_block_70003
+  - first:
+      213: 221014230418348708
+    second: crusader_block_70004
+  - first:
+      213: 5749789630535087922
+    second: crusader_block_70005
+  - first:
+      213: 586425488910801355
+    second: crusader_block_70009
+  - first:
+      213: -8894450583711957857
+    second: crusader_block_70010
+  - first:
+      213: -4822705004920017312
+    second: crusader_block_70011
+  - first:
+      213: -7890925966484395387
+    second: crusader_block_70012
+  - first:
+      213: -3567783223211078867
+    second: crusader_block_70013
+  - first:
+      213: -6592322900575114072
+    second: crusader_block_70014
+  - first:
+      213: -337720005146764416
+    second: crusader_block_70015
+  - first:
+      213: -255553206582263471
+    second: crusader_death_10000
+  - first:
+      213: -9056291684724800879
+    second: crusader_death_70000
+  - first:
+      213: 2559402949614627307
+    second: crusader_gothit_00001
+  - first:
+      213: 1985757158112938173
+    second: crusader_gothit_00002
+  - first:
+      213: -1213114510245074786
+    second: crusader_gothit_00003
+  - first:
+      213: -2023747129614127321
+    second: crusader_gothit_00004
+  - first:
+      213: 6124328401837001320
+    second: crusader_gothit_00005
+  - first:
+      213: -5250139169604125273
+    second: crusader_gothit_00006
+  - first:
+      213: -4697698035229297719
+    second: crusader_gothit_00007
+  - first:
+      213: 6536576133407144507
+    second: crusader_gothit_00008
+  - first:
+      213: -2348210206324272417
+    second: crusader_gothit_00009
+  - first:
+      213: 3059437542382150913
+    second: crusader_gothit_00010
+  - first:
+      213: 7167454644262612219
+    second: crusader_gothit_00011
+  - first:
+      213: -8889489896423768630
+    second: crusader_gothit_10000
+  - first:
+      213: 7102643753508200193
+    second: crusader_gothit_10001
+  - first:
+      213: 4601403210671483633
+    second: crusader_gothit_10002
+  - first:
+      213: 692093577394111161
+    second: crusader_gothit_10003
+  - first:
+      213: 6539981853096062131
+    second: crusader_gothit_10004
+  - first:
+      213: 7795764476757418061
+    second: crusader_gothit_10005
+  - first:
+      213: -4983125269512233405
+    second: crusader_gothit_10006
+  - first:
+      213: 8668778319472670517
+    second: crusader_gothit_10007
+  - first:
+      213: -3871322381221741595
+    second: crusader_gothit_10008
+  - first:
+      213: -2537096916696335532
+    second: crusader_gothit_10009
+  - first:
+      213: 8370218030873509262
+    second: crusader_gothit_10010
+  - first:
+      213: 3455325929776265591
+    second: crusader_gothit_10011
+  - first:
+      213: -380501943659326981
+    second: crusader_gothit_10012
+  - first:
+      213: 6104997078009100700
+    second: crusader_gothit_20004
+  - first:
+      213: 9119660673655361349
+    second: crusader_gothit_20005
+  - first:
+      213: 6346342841836209458
+    second: crusader_gothit_20006
+  - first:
+      213: -4219448020306421893
+    second: crusader_gothit_70000
+  - first:
+      213: -4568682559810458041
+    second: crusader_gothit_70001
+  - first:
+      213: -1988364249155622488
+    second: crusader_gothit_70002
+  - first:
+      213: -2685399627016000880
+    second: crusader_gothit_70003
+  - first:
+      213: -8325611272119772016
+    second: crusader_gothit_70004
+  - first:
+      213: -6712211083687663556
+    second: crusader_gothit_70005
+  - first:
+      213: 1230279718465280019
+    second: crusader_gothit_70006
+  - first:
+      213: 4431419784388412270
+    second: crusader_gothit_70007
+  - first:
+      213: -4483572720625730763
+    second: crusader_gothit_70008
+  - first:
+      213: -6040928589470678533
+    second: crusader_gothit_70009
+  - first:
+      213: -4413466185581226134
+    second: crusader_gothit_70010
+  - first:
+      213: 8693717777424588056
+    second: crusader_gothit_70011
+  - first:
+      213: 8413133186358666074
+    second: crusader_gothit_70012
+  - first:
+      213: 756318262485510858
+    second: crusader_idle_10000
+  - first:
+      213: 6635703129481662284
+    second: crusader_idle_10001
+  - first:
+      213: -5376234973990817452
+    second: crusader_idle_10002
+  - first:
+      213: 8032557698681777937
+    second: crusader_idle_10003
+  - first:
+      213: -5529798778690995909
+    second: crusader_idle_10004
+  - first:
+      213: -4251943973056212729
+    second: crusader_idle_10005
+  - first:
+      213: 8743304054413481758
+    second: crusader_idle_10006
+  - first:
+      213: 1353113787358783278
+    second: crusader_idle_10007
+  - first:
+      213: -5977433844844523605
+    second: crusader_idle_10008
+  - first:
+      213: 6770912677563982517
+    second: crusader_idle_10009
+  - first:
+      213: 1244938383871759402
+    second: crusader_idle_10010
+  - first:
+      213: 8463917174255386413
+    second: crusader_idle_10011
+  - first:
+      213: -47240541394876115
+    second: crusader_idle_10012
+  - first:
+      213: -7258234136598898475
+    second: crusader_idle_10013
+  - first:
+      213: -3642155228492612708
+    second: crusader_idle_10014
+  - first:
+      213: -8258758488963455128
+    second: crusader_idle_10015
+  - first:
+      213: 2395425431859985540
+    second: crusader_idle_70000
+  - first:
+      213: 8509178653763925942
+    second: crusader_idle_70001
+  - first:
+      213: 1119285302782700204
+    second: crusader_idle_70002
+  - first:
+      213: -1438171594487127691
+    second: crusader_idle_70003
+  - first:
+      213: 233928548775514885
+    second: crusader_idle_70004
+  - first:
+      213: 1977872880390827078
+    second: crusader_idle_70005
+  - first:
+      213: 6221124702430099181
+    second: crusader_idle_70006
+  - first:
+      213: -1969548125149791986
+    second: crusader_idle_70007
+  - first:
+      213: -8574491279347113210
+    second: crusader_idle_70008
+  - first:
+      213: 3939415392653734384
+    second: crusader_idle_70009
+  - first:
+      213: -1853819474312718072
+    second: crusader_idle_70010
+  - first:
+      213: -750424888536580992
+    second: crusader_idle_70011
+  - first:
+      213: 8136271017051308629
+    second: crusader_idle_70012
+  - first:
+      213: -3545421392743657128
+    second: crusader_idle_70013
+  - first:
+      213: 2589574985611646131
+    second: crusader_idle_70014
+  - first:
+      213: -1213457429716760860
+    second: crusader_idle_70015
+  - first:
+      213: 1730951996746598255
+    second: crusader_jump_00007
+  - first:
+      213: -484436058053930531
+    second: crusader_jump_00008
+  - first:
+      213: -2093783756442885812
+    second: crusader_jump_00012
+  - first:
+      213: -9081857693530864947
+    second: crusader_jump_00013
+  - first:
+      213: 6850469408401323305
+    second: crusader_jump_00014
+  - first:
+      213: -8254048586817213335
+    second: crusader_jump_10000
+  - first:
+      213: 6337796971000098387
+    second: crusader_jump_10007
+  - first:
+      213: -9145673185358340663
+    second: crusader_jump_10008
+  - first:
+      213: 7178874122177726661
+    second: crusader_jump_10012
+  - first:
+      213: -284565359071348909
+    second: crusader_jump_10013
+  - first:
+      213: 8010682258981690397
+    second: crusader_jump_10014
+  - first:
+      213: -9192399688056638932
+    second: crusader_jump_10015
+  - first:
+      213: 9028881371120249819
+    second: crusader_jump_50006
+  - first:
+      213: -3874436500957182064
+    second: crusader_jump_50013
+  - first:
+      213: 1908589201260635402
+    second: crusader_jump_60006
+  - first:
+      213: 8083100060935611824
+    second: crusader_jump_60007
+  - first:
+      213: 1402334144792898579
+    second: crusader_jump_60008
+  - first:
+      213: -8176173189644472744
+    second: crusader_jump_60012
+  - first:
+      213: -3749509277486273742
+    second: crusader_jump_60013
+  - first:
+      213: 2627554738462145124
+    second: crusader_jump_70000
+  - first:
+      213: 4213001594285756303
+    second: crusader_jump_70007
+  - first:
+      213: -9027493344686781520
+    second: crusader_jump_70008
+  - first:
+      213: 8346493718111115275
+    second: crusader_jump_70009
+  - first:
+      213: 1824588343467083932
+    second: crusader_jump_70010
+  - first:
+      213: 2504858981070279509
+    second: crusader_jump_70011
+  - first:
+      213: -6477350874349405843
+    second: crusader_jump_70012
+  - first:
+      213: 9098613834287251748
+    second: crusader_jump_70013
+  - first:
+      213: -6547310955950811522
+    second: crusader_jump_70014
+  - first:
+      213: -4967782249835318592
+    second: crusader_jump_70015
+  - first:
+      213: -3874306613457453755
+    second: crusader_run_30000
+  - first:
+      213: 6567567760960506391
+    second: crusader_run_30016
+  - first:
+      213: -1473833613553856291
+    second: crusader_run_40000
+  - first:
+      213: 6094676902737171279
+    second: crusader_run_40001
+  - first:
+      213: 3147792763634879987
+    second: crusader_run_40002
+  - first:
+      213: 582843769377825695
+    second: crusader_run_40009
+  - first:
+      213: 3160546907065080037
+    second: crusader_run_40010
+  - first:
+      213: 2177710485613257228
+    second: crusader_run_40016
+  - first:
+      213: -1037946683835441466
+    second: crusader_run_50009
+  - first:
+      213: -6731527453015894549
+    second: crusader_walk_00004
+  - first:
+      213: -6436263013187310564
+    second: crusader_walk_00005
+  - first:
+      213: 6464000814598203320
+    second: crusader_walk_00011
+  - first:
+      213: -473484271267668915
+    second: crusader_walk_00012
+  - first:
+      213: 9186851069226820193
+    second: crusader_walk_00013
+  - first:
+      213: 5835725938342575144
+    second: crusader_walk_10004
+  - first:
+      213: 3374105464229565088
+    second: crusader_walk_10005
+  - first:
+      213: -1014052608818581951
+    second: crusader_walk_10006
+  - first:
+      213: 8862964608732239689
+    second: crusader_walk_70007
+  - first:
+      213: 156150198431948522
+    second: crusader_walk_70012
+  - first:
+      213: 1066366872582902040
+    second: crusader_walk_70013
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crusader_attack_00007
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 683
+        width: 107
+        height: 161
+      alignment: 9
+      pivot: {x: 0.7242991, y: 0.3726708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7d5d310905ca870800000000000000
+      internalID: 8695413560283879346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_00008
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 10
+        width: 87
+        height: 172
+      alignment: 9
+      pivot: {x: 0.64942527, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dc58bf238a58f70800000000000000
+      internalID: 9188935551641046294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 91
+        height: 167
+      alignment: 9
+      pivot: {x: 0.6208791, y: 0.35329342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5d8360926692510800000000000000
+      internalID: 1524862275225703918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_00013
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 11
+        width: 74
+        height: 171
+      alignment: 9
+      pivot: {x: 0.29054055, y: 0.50292397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b46aa627230150800000000000000
+      internalID: 5837552589023262047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_00014
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 185
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: 0.30821916, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd248254a94725120800000000000000
+      internalID: 2401109757275947741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_00015
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 518
+        width: 68
+        height: 163
+      alignment: 9
+      pivot: {x: 0.34558824, y: 0.4417178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c1d2eaf6d121db0800000000000000
+      internalID: -4822759885459612548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_20003
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 185
+        width: 77
+        height: 165
+      alignment: 9
+      pivot: {x: 0.42207792, y: 0.4060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0dc2fc880470340800000000000000
+      internalID: 4829900081713696938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_20004
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 12
+        width: 74
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5202703, y: 0.42352942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbb8bfc5dfc069a0800000000000000
+      internalID: -6241760566315533323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_20005
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 5
+        width: 74
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5472973, y: 0.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2bd236b7c61c650800000000000000
+      internalID: 6251397034967675594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_30004
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 184
+        width: 76
+        height: 166
+      alignment: 9
+      pivot: {x: 0.4276316, y: 0.42168674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b0006e267ee5870800000000000000
+      internalID: 8673624344313727783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_30005
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 7
+        width: 72
+        height: 175
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.45142856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c85dc2d557850d0800000000000000
+      internalID: -3433865672825402331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_40011
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 518
+        width: 99
+        height: 163
+      alignment: 9
+      pivot: {x: 0.37878788, y: 0.3006135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdccb5722c3c4ce40800000000000000
+      internalID: 5675876669045066971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_40012
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 518
+        width: 87
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5229885, y: 0.30674848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e56500ada50e5690800000000000000
+      internalID: -7611640076937370141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_50011
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 9
+        width: 116
+        height: 173
+      alignment: 9
+      pivot: {x: 0.4525862, y: 0.30635837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cacce68f61b90770800000000000000
+      internalID: 8577582057866971847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_50012
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 12
+        width: 120
+        height: 170
+      alignment: 9
+      pivot: {x: 0.8208333, y: 0.31176472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1445ad0ccf4588660800000000000000
+      internalID: 7388248633245324353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_60007
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 15
+        width: 93
+        height: 167
+      alignment: 9
+      pivot: {x: 0.45698926, y: 0.32934132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3372d69e1145273a0800000000000000
+      internalID: -6669175662274861261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_60008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 95
+        height: 163
+      alignment: 9
+      pivot: {x: 0.48947367, y: 0.33742332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc64bf8ae7e8390800000000000000
+      internalID: -7814169039205905032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_60011
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 14
+        width: 106
+        height: 168
+      alignment: 9
+      pivot: {x: 0.6084906, y: 0.32738096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c262db674152b330800000000000000
+      internalID: 3725129208982299333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_70007
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3
+        width: 74
+        height: 179
+      alignment: 9
+      pivot: {x: 0.6148649, y: 0.33519554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc89d8dffc665a780800000000000000
+      internalID: -8672412463933843252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_70008
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 3
+        width: 70
+        height: 179
+      alignment: 9
+      pivot: {x: 0.6357143, y: 0.33519554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ed279ad073f370800000000000000
+      internalID: 8355145817843951660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_70009
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 12
+        width: 64
+        height: 170
+      alignment: 9
+      pivot: {x: 0.6484375, y: 0.3529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591cbbef688156e40800000000000000
+      internalID: 5648948275684557205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_70010
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 519
+        width: 83
+        height: 162
+      alignment: 9
+      pivot: {x: 0.6807229, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b6b30a6efd529a0800000000000000
+      internalID: -6258349925537715358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_70011
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 352
+        width: 107
+        height: 164
+      alignment: 9
+      pivot: {x: 0.6775701, y: 0.3597561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347d30730cbc58490800000000000000
+      internalID: -7744559957776541885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_70013
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 13
+        width: 97
+        height: 169
+      alignment: 9
+      pivot: {x: 0.61340207, y: 0.49112427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c1b09b15d39670800000000000000
+      internalID: 8544407232420365155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_attack_70014
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 185
+        width: 74
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5202703, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb4afcd3dfe2fa80800000000000000
+      internalID: -8434415458886988866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_00002
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1170
+        width: 78
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5448718, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aa138ac24968cb0800000000000000
+      internalID: -4862035828178572783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_00003
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1170
+        width: 83
+        height: 160
+      alignment: 9
+      pivot: {x: 0.57228917, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d83bcb6b39cebc10800000000000000
+      internalID: 2071314135685740760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_00004
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 683
+        width: 87
+        height: 161
+      alignment: 9
+      pivot: {x: 0.6034483, y: 0.38509318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b83b60913f721330800000000000000
+      internalID: 3680143696368187575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_00005
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1170
+        width: 91
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6318681, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e7e2b4fa94d0be0800000000000000
+      internalID: -1509469282869805500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_00011
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 683
+        width: 87
+        height: 161
+      alignment: 9
+      pivot: {x: 0.6034483, y: 0.38509318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f7f7376ab2cdbb0800000000000000
+      internalID: -4910001499838382302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_00012
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1170
+        width: 84
+        height: 160
+      alignment: 9
+      pivot: {x: 0.57738096, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11a398ecb962f90800000000000000
+      internalID: -6978719261196152333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_00013
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1170
+        width: 78
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5448718, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b0121e94c3c3ca0800000000000000
+      internalID: -6035883112575988944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10000
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1170
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cf236f4ab37b050800000000000000
+      internalID: 5816183023463496714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10001
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1170
+        width: 73
+        height: 160
+      alignment: 9
+      pivot: {x: 0.43150684, y: 0.3875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9631f6b91a642c0800000000000000
+      internalID: -4447689893026240047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10002
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1170
+        width: 72
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e7b22bdca28310800000000000000
+      internalID: 1405876090873308856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1332
+        width: 75
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30b0e836c2832890800000000000000
+      internalID: -7483994367890247622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10010
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1332
+        width: 74
+        height: 159
+      alignment: 9
+      pivot: {x: 0.47972974, y: 0.3836478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e554e701475f17e0800000000000000
+      internalID: -1792618189853272603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1008
+        width: 71
+        height: 160
+      alignment: 9
+      pivot: {x: 0.471831, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0c636cf8872f8e0800000000000000
+      internalID: -1661132753645158211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10012
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1008
+        width: 70
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e901787b1d007b20800000000000000
+      internalID: 3130016152658446825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10013
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 683
+        width: 70
+        height: 161
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.38509318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54929a6db05963c20800000000000000
+      internalID: 3185897664489793861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10014
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 683
+        width: 72
+        height: 161
+      alignment: 9
+      pivot: {x: 0.4236111, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5776b4ceb72c76b20800000000000000
+      internalID: 3127682303733229429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_10015
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1008
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe4c657fef64b20800000000000000
+      internalID: 3118460130266771242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70000
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1008
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea737de3486742b0800000000000000
+      internalID: -5600392970656056594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70001
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1008
+        width: 108
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6712963, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8a3217fef178e0800000000000000
+      internalID: -1697295247425761463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70002
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1008
+        width: 105
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6904762, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de95e95aa291da7c0800000000000000
+      internalID: -4058560018233009683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70003
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1332
+        width: 107
+        height: 159
+      alignment: 9
+      pivot: {x: 0.6775701, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d529db9fbf6404d0800000000000000
+      internalID: -3169285369017850410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70004
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1332
+        width: 105
+        height: 159
+      alignment: 9
+      pivot: {x: 0.68095237, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa54668543311300800000000000000
+      internalID: 221014230418348708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70005
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1008
+        width: 98
+        height: 160
+      alignment: 9
+      pivot: {x: 0.71938777, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237b44d843b5bcf40800000000000000
+      internalID: 5749789630535087922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70009
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1332
+        width: 97
+        height: 159
+      alignment: 9
+      pivot: {x: 0.76804125, y: 0.4025157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc953c900e6632800800000000000000
+      internalID: 586425488910801355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70010
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1008
+        width: 106
+        height: 160
+      alignment: 9
+      pivot: {x: 0.7216981, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c3595a150909480800000000000000
+      internalID: -8894450583711957857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70011
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1332
+        width: 111
+        height: 159
+      alignment: 9
+      pivot: {x: 0.6981982, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e6e3d895f421db0800000000000000
+      internalID: -4822705004920017312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70012
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1332
+        width: 111
+        height: 159
+      alignment: 9
+      pivot: {x: 0.6891892, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aaac234accd7290800000000000000
+      internalID: -7890925966484395387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70013
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1008
+        width: 108
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6990741, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bc7e8bf00bc7ec0800000000000000
+      internalID: -3567783223211078867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70014
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1008
+        width: 108
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6805556, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac2c82ef3d5384a0800000000000000
+      internalID: -6592322900575114072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_block_70015
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1008
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b1fa3d17d205bf0800000000000000
+      internalID: -337720005146764416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_death_10000
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1008
+        width: 75
+        height: 160
+      alignment: 9
+      pivot: {x: 0.40666667, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151c37c66b7147cf0800000000000000
+      internalID: -255553206582263471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_death_70000
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1008
+        width: 107
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6401869, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19287ade1b6915280800000000000000
+      internalID: -9056291684724800879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00001
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1008
+        width: 74
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9edd02c63d48320800000000000000
+      internalID: 2559402949614627307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00002
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 683
+        width: 78
+        height: 161
+      alignment: 9
+      pivot: {x: 0.53205127, y: 0.378882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8c2834d93de8b10800000000000000
+      internalID: 1985757158112938173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00003
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 353
+        width: 84
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5535714, y: 0.38036808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9868f0c7c62a2fe0800000000000000
+      internalID: -1213114510245074786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00004
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 353
+        width: 89
+        height: 163
+      alignment: 9
+      pivot: {x: 0.57865167, y: 0.38036808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f222835b43ae3e0800000000000000
+      internalID: -2023747129614127321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00005
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 185
+        width: 96
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5989583, y: 0.38181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a845fbb3cfdf450800000000000000
+      internalID: 6124328401837001320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00006
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 185
+        width: 109
+        height: 165
+      alignment: 9
+      pivot: {x: 0.61926603, y: 0.38181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adb16edd32c327b0800000000000000
+      internalID: -5250139169604125273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00007
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 353
+        width: 109
+        height: 163
+      alignment: 9
+      pivot: {x: 0.60091746, y: 0.38036808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c37b14c68c6eceb0800000000000000
+      internalID: -4697698035229297719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00008
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 353
+        width: 101
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5792079, y: 0.38036808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a770f6c5596ba50800000000000000
+      internalID: 6536576133407144507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00009
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 519
+        width: 93
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5645161, y: 0.37654322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2581a324b796fd0800000000000000
+      internalID: -2348210206324272417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00010
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 683
+        width: 83
+        height: 161
+      alignment: 9
+      pivot: {x: 0.53614455, y: 0.378882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105ae263c3e457a20800000000000000
+      internalID: 3059437542382150913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_00011
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1332
+        width: 73
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc2ffe260ae77360800000000000000
+      internalID: 7167454644262612219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10000
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1008
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdbc39a90032a480800000000000000
+      internalID: -8889489896423768630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10001
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 683
+        width: 81
+        height: 161
+      alignment: 9
+      pivot: {x: 0.4382716, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fd006ccd8a19260800000000000000
+      internalID: 7102643753508200193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10002
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 683
+        width: 85
+        height: 161
+      alignment: 9
+      pivot: {x: 0.4882353, y: 0.38509318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa6a6047d77bdf30800000000000000
+      internalID: 4601403210671483633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10003
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 353
+        width: 89
+        height: 163
+      alignment: 9
+      pivot: {x: 0.53370786, y: 0.39263803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2c7e7117fca9900800000000000000
+      internalID: 692093577394111161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10004
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 352
+        width: 94
+        height: 164
+      alignment: 9
+      pivot: {x: 0.55851066, y: 0.39634147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcaa4758dea2ca50800000000000000
+      internalID: 6539981853096062131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10005
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 352
+        width: 99
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5707071, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d402cb5ec7e103c60800000000000000
+      internalID: 7795764476757418061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10006
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 352
+        width: 103
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5970874, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e537718f168dab0800000000000000
+      internalID: -4983125269512233405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10007
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 519
+        width: 102
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.38271606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537b6c0d3ffad4870800000000000000
+      internalID: 8668778319472670517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10008
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 519
+        width: 99
+        height: 162
+      alignment: 9
+      pivot: {x: 0.56060606, y: 0.38271606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb32403ecc464ac0800000000000000
+      internalID: -3871322381221741595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10009
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 519
+        width: 93
+        height: 162
+      alignment: 9
+      pivot: {x: 0.52150536, y: 0.38271606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b739fdbcb6accd0800000000000000
+      internalID: -2537096916696335532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10010
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 519
+        width: 85
+        height: 162
+      alignment: 9
+      pivot: {x: 0.46470588, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df8c6a3fcf82470800000000000000
+      internalID: 8370218030873509262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10011
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 683
+        width: 77
+        height: 161
+      alignment: 9
+      pivot: {x: 0.3961039, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779b28340a8c3ff20800000000000000
+      internalID: 3455325929776265591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_10012
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1008
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf117db8f7f28baf0800000000000000
+      internalID: -380501943659326981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_20004
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1008
+        width: 101
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6287129, y: 0.4125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99b78d2f7e49b450800000000000000
+      internalID: 6104997078009100700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_20005
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 353
+        width: 105
+        height: 163
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.42331287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fc35d801b8f8e70800000000000000
+      internalID: 9119660673655361349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_20006
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1332
+        width: 104
+        height: 159
+      alignment: 9
+      pivot: {x: 0.6298077, y: 0.42138365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2358d76b03db21850800000000000000
+      internalID: 6346342841836209458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70000
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1008
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77196191628175c0800000000000000
+      internalID: -4219448020306421893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70001
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 519
+        width: 118
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5805085, y: 0.39506173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ea9f2fa67c890c0800000000000000
+      internalID: -4568682559810458041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70002
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 519
+        width: 117
+        height: 162
+      alignment: 9
+      pivot: {x: 0.54273504, y: 0.39506173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a92efc0049e764e0800000000000000
+      internalID: -1988364249155622488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70003
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 352
+        width: 114
+        height: 164
+      alignment: 9
+      pivot: {x: 0.49561402, y: 0.39634147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aaebf544b8bbad0800000000000000
+      internalID: -2685399627016000880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70004
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 352
+        width: 111
+        height: 164
+      alignment: 9
+      pivot: {x: 0.45495495, y: 0.39634147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1053b8ac757c80800000000000000
+      internalID: -8325611272119772016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70005
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 185
+        width: 110
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4318182, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c386b5b059f69d2a0800000000000000
+      internalID: -6712211083687663556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70006
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 185
+        width: 129
+        height: 165
+      alignment: 9
+      pivot: {x: 0.47674417, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189d79b2e4d21110800000000000000
+      internalID: 1230279718465280019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70007
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 185
+        width: 143
+        height: 165
+      alignment: 9
+      pivot: {x: 0.506993, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e630c13b0d09f7d30800000000000000
+      internalID: 4431419784388412270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70008
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 185
+        width: 138
+        height: 165
+      alignment: 9
+      pivot: {x: 0.51811594, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bb8769d5627c1c0800000000000000
+      internalID: -4483572720625730763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 130
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5346154, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1491f347f4a2ca0800000000000000
+      internalID: -6040928589470678533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70010
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 353
+        width: 122
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5696721, y: 0.39263803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a679b3443e730c2c0800000000000000
+      internalID: -4413466185581226134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70011
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 683
+        width: 114
+        height: 161
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d14ecd14a46a870800000000000000
+      internalID: 8693717777424588056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_gothit_70012
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1008
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5365fcee0471c470800000000000000
+      internalID: 8413133186358666074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 846
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae69cd37bfe7a00800000000000000
+      internalID: 756318262485510858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10001
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 846
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fc3bbb6d0c61c50800000000000000
+      internalID: 6635703129481662284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10002
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 846
+        width: 78
+        height: 160
+      alignment: 9
+      pivot: {x: 0.40384614, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451fe3296c6c365b0800000000000000
+      internalID: -5376234973990817452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10003
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 846
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.41875, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fa1cb2ba0697f60800000000000000
+      internalID: 8032557698681777937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10004
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 846
+        width: 81
+        height: 160
+      alignment: 9
+      pivot: {x: 0.42592594, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39fbb41f453243b0800000000000000
+      internalID: -5529798778690995909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10005
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1332
+        width: 82
+        height: 159
+      alignment: 9
+      pivot: {x: 0.43292683, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7011f19fb7f0ef4c0800000000000000
+      internalID: -4251943973056212729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10006
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1332
+        width: 83
+        height: 159
+      alignment: 9
+      pivot: {x: 0.43975905, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e175c86a6b4765970800000000000000
+      internalID: 8743304054413481758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10007
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1332
+        width: 83
+        height: 159
+      alignment: 9
+      pivot: {x: 0.43975905, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27243c02d937c210800000000000000
+      internalID: 1353113787358783278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10008
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1332
+        width: 83
+        height: 159
+      alignment: 9
+      pivot: {x: 0.43975905, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf05a18693eb0da0800000000000000
+      internalID: -5977433844844523605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10009
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1332
+        width: 82
+        height: 159
+      alignment: 9
+      pivot: {x: 0.43292683, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2e367d43d17fd50800000000000000
+      internalID: 6770912677563982517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10010
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 846
+        width: 81
+        height: 160
+      alignment: 9
+      pivot: {x: 0.42592594, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24dce93dd8e64110800000000000000
+      internalID: 1244938383871759402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10011
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 846
+        width: 80
+        height: 160
+      alignment: 9
+      pivot: {x: 0.41875, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ff1d383dfd57570800000000000000
+      internalID: 8463917174255386413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10012
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 846
+        width: 79
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4113924, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2949275afa285ff0800000000000000
+      internalID: -47240541394876115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10013
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 846
+        width: 78
+        height: 160
+      alignment: 9
+      pivot: {x: 0.40384614, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8986f2282954b90800000000000000
+      internalID: -7258234136598898475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10014
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 846
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bbddcdd17747dc0800000000000000
+      internalID: -3642155228492612708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_10015
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 846
+        width: 76
+        height: 160
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867679b39eef26d80800000000000000
+      internalID: -8258758488963455128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70000
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 846
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c73ff1db24e3120800000000000000
+      internalID: 2395425431859985540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70001
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 846
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6096491, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b77febe6eca61670800000000000000
+      internalID: 8509178653763925942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70002
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 846
+        width: 113
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5973451, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaadaa7d00888f00800000000000000
+      internalID: 1119285302782700204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70003
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1332
+        width: 113
+        height: 159
+      alignment: 9
+      pivot: {x: 0.58849555, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571a988fd869a0ce0800000000000000
+      internalID: -1438171594487127691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70004
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1332
+        width: 112
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5848214, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503569496c41f3300800000000000000
+      internalID: 233928548775514885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70005
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1332
+        width: 112
+        height: 159
+      alignment: 9
+      pivot: {x: 0.57589287, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ce29ec7e0d27b10800000000000000
+      internalID: 1977872880390827078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70006
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1332
+        width: 111
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5720721, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6f0c7b4ffd55650800000000000000
+      internalID: 6221124702430099181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70007
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1332
+        width: 112
+        height: 159
+      alignment: 9
+      pivot: {x: 0.56696427, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09f8605a62caa4e0800000000000000
+      internalID: -1969548125149791986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1171
+        width: 111
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5720721, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603a4dc6c99410980800000000000000
+      internalID: -8574491279347113210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70009
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1171
+        width: 112
+        height: 159
+      alignment: 9
+      pivot: {x: 0.57589287, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f4dd7d6d9ba630800000000000000
+      internalID: 3939415392653734384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70010
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1171
+        width: 112
+        height: 159
+      alignment: 9
+      pivot: {x: 0.57589287, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80993e39209e546e0800000000000000
+      internalID: -1853819474312718072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70011
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1171
+        width: 113
+        height: 159
+      alignment: 9
+      pivot: {x: 0.58849555, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3a203a84f595f0800000000000000
+      internalID: -750424888536580992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70012
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 846
+        width: 113
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5973451, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55246a7d167d9e070800000000000000
+      internalID: 8136271017051308629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70013
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 846
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.60087717, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851917a17022ccec0800000000000000
+      internalID: -3545421392743657128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70014
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 846
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6096491, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49e90bab400f320800000000000000
+      internalID: 2589574985611646131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_idle_70015
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 846
+        width: 114
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e68ca795eee82fe0800000000000000
+      internalID: -1213457429716760860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_00007
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 184
+        width: 83
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5481928, y: 0.3554217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6785598ba3950810800000000000000
+      internalID: 1730951996746598255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_00008
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 186
+        width: 89
+        height: 164
+      alignment: 9
+      pivot: {x: 0.55617976, y: 0.34146342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd11e4bc8ffe649f0800000000000000
+      internalID: -484436058053930531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_00012
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 186
+        width: 89
+        height: 164
+      alignment: 9
+      pivot: {x: 0.55617976, y: 0.35365853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c412db054c261f2e0800000000000000
+      internalID: -2093783756442885812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_00013
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 353
+        width: 73
+        height: 163
+      alignment: 9
+      pivot: {x: 0.48630136, y: 0.36196318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c174ab82c6f180800000000000000
+      internalID: -9081857693530864947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_00014
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1171
+        width: 66
+        height: 159
+      alignment: 9
+      pivot: {x: 0.46212122, y: 0.3710692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f070b1a1c11f50800000000000000
+      internalID: 6850469408401323305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_10000
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 846
+        width: 75
+        height: 160
+      alignment: 9
+      pivot: {x: 0.40666667, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ce1f7ca8ab37d80800000000000000
+      internalID: -8254048586817213335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_10007
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 683
+        width: 116
+        height: 161
+      alignment: 9
+      pivot: {x: 0.42672414, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ee10b14c064f750800000000000000
+      internalID: 6337796971000098387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_10008
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 846
+        width: 139
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5503597, y: 0.36875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd96ea91ba041180800000000000000
+      internalID: -9145673185358340663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_10012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 520
+        width: 139
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5503597, y: 0.38509318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8c5a39afb70a360800000000000000
+      internalID: 7178874122177726661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_10013
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 519
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: 0.36320755, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357bb2940550d0cf0800000000000000
+      internalID: -284565359071348909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_10014
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 519
+        width: 84
+        height: 162
+      alignment: 9
+      pivot: {x: 0.39880952, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c90277219ab2f60800000000000000
+      internalID: 8010682258981690397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_10015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 684
+        width: 75
+        height: 160
+      alignment: 9
+      pivot: {x: 0.40666667, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22f8f7ef290e6080800000000000000
+      internalID: -9192399688056638932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_50006
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 15
+        width: 91
+        height: 167
+      alignment: 9
+      pivot: {x: 0.65384614, y: 0.32934132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba3cc15c70d4d70800000000000000
+      internalID: 9028881371120249819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_50013
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 184
+        width: 106
+        height: 166
+      alignment: 9
+      pivot: {x: 0.6462264, y: 0.3313253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097c3afa78c3b3ac0800000000000000
+      internalID: -3874436500957182064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_60006
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 184
+        width: 99
+        height: 166
+      alignment: 9
+      pivot: {x: 0.6515151, y: 0.36746988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05694334cbac7a10800000000000000
+      internalID: 1908589201260635402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_60007
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 6
+        width: 112
+        height: 176
+      alignment: 9
+      pivot: {x: 0.62053573, y: 0.3409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b56108eda0fc2070800000000000000
+      internalID: 8083100060935611824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_60008
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 520
+        width: 116
+        height: 161
+      alignment: 9
+      pivot: {x: 0.49568966, y: 0.35403726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c28cc8977167310800000000000000
+      internalID: 1402334144792898579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_60012
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 519
+        width: 116
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49568966, y: 0.36419752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e2b21adc5688e80800000000000000
+      internalID: -8176173189644472744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_60013
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 5
+        width: 114
+        height: 177
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b26698d2117fbc0800000000000000
+      internalID: -3749509277486273742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70000
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 684
+        width: 107
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6401869, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a3eedfc13f67420800000000000000
+      internalID: 2627554738462145124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70007
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1
+        width: 89
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5898876, y: 0.3480663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f8e89e0a6977a30800000000000000
+      internalID: 4213001594285756303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70008
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 7
+        width: 87
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbcdb9f1a6e7b280800000000000000
+      internalID: -9027493344686781520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70009
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 185
+        width: 84
+        height: 165
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08da04a0d3b4d370800000000000000
+      internalID: 8346493718111115275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70010
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 353
+        width: 85
+        height: 163
+      alignment: 9
+      pivot: {x: 0.45294118, y: 0.33128834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c988ca96e6d325910800000000000000
+      internalID: 1824588343467083932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70011
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 185
+        width: 86
+        height: 165
+      alignment: 9
+      pivot: {x: 0.47093022, y: 0.3272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5531423d8fb03c220800000000000000
+      internalID: 2504858981070279509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70012
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 5
+        width: 87
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3502825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6976d0c2b3db16a0800000000000000
+      internalID: -6477350874349405843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70013
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 5
+        width: 83
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5481928, y: 0.3559322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42185256315c44e70800000000000000
+      internalID: 9098613834287251748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70014
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 519
+        width: 96
+        height: 162
+      alignment: 9
+      pivot: {x: 0.6510417, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76578cef574325a0800000000000000
+      internalID: -6547310955950811522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_jump_70015
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 684
+        width: 107
+        height: 160
+      alignment: 9
+      pivot: {x: 0.6401869, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2331d3d54ee0bb0800000000000000
+      internalID: -4967782249835318592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_30000
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 684
+        width: 96
+        height: 160
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dfbe979a2bb3ac0800000000000000
+      internalID: -3874306613457453755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_30016
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 684
+        width: 96
+        height: 160
+      alignment: 9
+      pivot: {x: 0.453125, y: 0.38125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71acb560510b42b50800000000000000
+      internalID: 6567567760960506391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_40000
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 353
+        width: 68
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5514706, y: 0.38036808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0971e1324eb8be0800000000000000
+      internalID: -1473833613553856291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_40001
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 186
+        width: 69
+        height: 164
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.38414633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f435d602a54a49450800000000000000
+      internalID: 6094676902737171279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_40002
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 520
+        width: 70
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5214286, y: 0.378882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd800f37d43fab20800000000000000
+      internalID: 3147792763634879987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_40009
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 353
+        width: 70
+        height: 163
+      alignment: 9
+      pivot: {x: 0.47857141, y: 0.38036808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93a059f15da61800800000000000000
+      internalID: 582843769377825695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_40010
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 520
+        width: 69
+        height: 161
+      alignment: 9
+      pivot: {x: 0.48550725, y: 0.378882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8d29baaa48cdb20800000000000000
+      internalID: 3160546907065080037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_40016
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 353
+        width: 68
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5514706, y: 0.38036808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c022f9e0628c83e10800000000000000
+      internalID: 2177710485613257228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_run_50009
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1171
+        width: 72
+        height: 159
+      alignment: 9
+      pivot: {x: 0.6597222, y: 0.3836478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce91368df87891f0800000000000000
+      internalID: -1037946683835441466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_00004
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 684
+        width: 73
+        height: 160
+      alignment: 9
+      pivot: {x: 0.51369864, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be59237527fc492a0800000000000000
+      internalID: -6731527453015894549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_00005
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 684
+        width: 73
+        height: 160
+      alignment: 9
+      pivot: {x: 0.51369864, y: 0.39375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c2cf9e3eccda6a0800000000000000
+      internalID: -6436263013187310564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_00011
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1171
+        width: 76
+        height: 159
+      alignment: 9
+      pivot: {x: 0.46710527, y: 0.4025157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b726fd3e7eb4b950800000000000000
+      internalID: 6464000814598203320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_00012
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 684
+        width: 74
+        height: 160
+      alignment: 9
+      pivot: {x: 0.47972974, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c1b5c5098dd69f0800000000000000
+      internalID: -473484271267668915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_00013
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1171
+        width: 74
+        height: 159
+      alignment: 9
+      pivot: {x: 0.49324325, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162aea99f504e7f70800000000000000
+      internalID: 9186851069226820193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_10004
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 684
+        width: 85
+        height: 160
+      alignment: 9
+      pivot: {x: 0.38235295, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c317962d9acf050800000000000000
+      internalID: 5835725938342575144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_10005
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1171
+        width: 83
+        height: 159
+      alignment: 9
+      pivot: {x: 0.3554217, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a29b1efa0b33de20800000000000000
+      internalID: 3374105464229565088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_10006
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1171
+        width: 84
+        height: 159
+      alignment: 9
+      pivot: {x: 0.35119048, y: 0.3899371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e6fc3668c5de1f0800000000000000
+      internalID: -1014052608818581951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_70007
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1171
+        width: 109
+        height: 159
+      alignment: 9
+      pivot: {x: 0.60091746, y: 0.3836478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94718588a539ffa70800000000000000
+      internalID: 8862964608732239689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_70012
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1171
+        width: 108
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5787037, y: 0.40880504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee942537c1ca2200800000000000000
+      internalID: 156150198431948522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crusader_walk_70013
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1171
+        width: 107
+        height: 159
+      alignment: 9
+      pivot: {x: 0.61214954, y: 0.4025157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115c80550f7cce00800000000000000
+      internalID: 1066366872582902040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

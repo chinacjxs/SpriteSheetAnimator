@@ -1,0 +1,2005 @@
+{"frames": [
+
+{
+	"filename": "attack/crusader_attack_00000.png",
+	"frame": {"x":1076,"y":626,"w":82,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":22,"w":82,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_00001.png",
+	"frame": {"x":1160,"y":626,"w":94,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":22,"w":94,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_00002.png",
+	"frame": {"x":1256,"y":626,"w":118,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":22,"w":118,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_00003.png",
+	"frame": {"x":1573,"y":1258,"w":133,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":22,"w":133,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_00004.png",
+	"frame": {"x":1511,"y":1576,"w":127,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":22,"w":127,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_00005.png",
+	"frame": {"x":1666,"y":1736,"w":117,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":22,"w":117,"h":159},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_00006.png",
+	"frame": {"x":1640,"y":1576,"w":133,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":23,"w":133,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_00016.png",
+	"frame": {"x":1708,"y":1258,"w":68,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":25,"w":68,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_00017.png",
+	"frame": {"x":1376,"y":626,"w":82,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":104,"y":22,"w":82,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10000.png",
+	"frame": {"x":1775,"y":1576,"w":82,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":22,"w":82,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10001.png",
+	"frame": {"x":1859,"y":1576,"w":82,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":22,"w":82,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10002.png",
+	"frame": {"x":1943,"y":1576,"w":83,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":21,"w":83,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10003.png",
+	"frame": {"x":1,"y":1736,"w":110,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":21,"w":110,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10004.png",
+	"frame": {"x":1778,"y":1258,"w":124,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":21,"w":124,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10005.png",
+	"frame": {"x":1904,"y":1258,"w":119,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":21,"w":119,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10006.png",
+	"frame": {"x":1460,"y":626,"w":141,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":22,"w":141,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10007.png",
+	"frame": {"x":1565,"y":312,"w":120,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":23,"w":120,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10008.png",
+	"frame": {"x":521,"y":156,"w":96,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":24,"w":96,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10013.png",
+	"frame": {"x":1,"y":1417,"w":135,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":30,"w":135,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10016.png",
+	"frame": {"x":1603,"y":626,"w":78,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":24,"w":78,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_10017.png",
+	"frame": {"x":113,"y":1736,"w":82,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":22,"w":82,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_20000.png",
+	"frame": {"x":619,"y":156,"w":98,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":22,"w":98,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_20001.png",
+	"frame": {"x":1,"y":1,"w":90,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":22,"w":90,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_20002.png",
+	"frame": {"x":1785,"y":1736,"w":82,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":22,"w":82,"h":159},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_20016.png",
+	"frame": {"x":719,"y":156,"w":104,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":22,"w":104,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_20017.png",
+	"frame": {"x":825,"y":156,"w":98,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":22,"w":98,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_30010.png",
+	"frame": {"x":93,"y":1,"w":83,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":20,"w":83,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_30011.png",
+	"frame": {"x":178,"y":1,"w":107,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":19,"w":107,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_30012.png",
+	"frame": {"x":925,"y":156,"w":117,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":18,"w":117,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_30013.png",
+	"frame": {"x":1044,"y":156,"w":97,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":18,"w":97,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_30014.png",
+	"frame": {"x":1687,"y":312,"w":74,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":18,"w":74,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_30015.png",
+	"frame": {"x":287,"y":1,"w":86,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":20,"w":86,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_60012.png",
+	"frame": {"x":1683,"y":626,"w":150,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":18,"w":150,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70000.png",
+	"frame": {"x":1835,"y":626,"w":114,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":23,"w":114,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70001.png",
+	"frame": {"x":1,"y":784,"w":116,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":23,"w":116,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70002.png",
+	"frame": {"x":138,"y":1417,"w":115,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":23,"w":115,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70003.png",
+	"frame": {"x":255,"y":1417,"w":97,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":23,"w":97,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70004.png",
+	"frame": {"x":354,"y":1417,"w":76,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":24,"w":76,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70005.png",
+	"frame": {"x":432,"y":1417,"w":72,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":24,"w":72,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70006.png",
+	"frame": {"x":119,"y":784,"w":73,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":25,"w":73,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70015.png",
+	"frame": {"x":194,"y":784,"w":86,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":28,"w":86,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70016.png",
+	"frame": {"x":1143,"y":156,"w":107,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":25,"w":107,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "attack/crusader_attack_70017.png",
+	"frame": {"x":282,"y":784,"w":114,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":23,"w":114,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_00000.png",
+	"frame": {"x":506,"y":1417,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":73,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_00001.png",
+	"frame": {"x":197,"y":1736,"w":71,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":22,"w":71,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_00006.png",
+	"frame": {"x":398,"y":784,"w":92,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":28,"w":92,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_00008.png",
+	"frame": {"x":1252,"y":156,"w":93,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":30,"w":93,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_00009.png",
+	"frame": {"x":581,"y":1417,"w":93,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":26,"w":93,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_00010.png",
+	"frame": {"x":1869,"y":1736,"w":91,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":23,"w":91,"h":159},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_00014.png",
+	"frame": {"x":270,"y":1736,"w":71,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":22,"w":71,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_00015.png",
+	"frame": {"x":676,"y":1417,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":73,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_10003.png",
+	"frame": {"x":1962,"y":1736,"w":74,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":21,"w":74,"h":159},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_10005.png",
+	"frame": {"x":492,"y":784,"w":76,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":23,"w":76,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_10006.png",
+	"frame": {"x":1347,"y":156,"w":77,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":28,"w":77,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_10007.png",
+	"frame": {"x":1426,"y":156,"w":76,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":32,"w":76,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_10008.png",
+	"frame": {"x":1763,"y":312,"w":76,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":30,"w":76,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_10009.png",
+	"frame": {"x":1504,"y":156,"w":75,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":26,"w":75,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20000.png",
+	"frame": {"x":751,"y":1417,"w":109,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":23,"w":109,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20001.png",
+	"frame": {"x":570,"y":784,"w":99,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":23,"w":99,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20002.png",
+	"frame": {"x":671,"y":784,"w":95,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":23,"w":95,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20003.png",
+	"frame": {"x":768,"y":784,"w":90,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":22,"w":90,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20004.png",
+	"frame": {"x":860,"y":784,"w":83,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":22,"w":83,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20005.png",
+	"frame": {"x":1841,"y":312,"w":78,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":23,"w":78,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20007.png",
+	"frame": {"x":1921,"y":312,"w":98,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":28,"w":98,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20008.png",
+	"frame": {"x":1,"y":469,"w":93,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":26,"w":93,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20009.png",
+	"frame": {"x":1581,"y":156,"w":82,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":24,"w":82,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20010.png",
+	"frame": {"x":96,"y":469,"w":82,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":23,"w":82,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20011.png",
+	"frame": {"x":945,"y":784,"w":91,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":22,"w":91,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20012.png",
+	"frame": {"x":1038,"y":784,"w":96,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":22,"w":96,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20013.png",
+	"frame": {"x":1136,"y":784,"w":100,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":23,"w":100,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20014.png",
+	"frame": {"x":1238,"y":784,"w":101,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":23,"w":101,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_20015.png",
+	"frame": {"x":862,"y":1417,"w":109,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":23,"w":109,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_30006.png",
+	"frame": {"x":375,"y":1,"w":87,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":22,"w":87,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_30007.png",
+	"frame": {"x":464,"y":1,"w":83,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":22,"w":83,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_30008.png",
+	"frame": {"x":549,"y":1,"w":86,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":22,"w":86,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_40006.png",
+	"frame": {"x":637,"y":1,"w":92,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":20,"w":92,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_40007.png",
+	"frame": {"x":731,"y":1,"w":92,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":19,"w":92,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60000.png",
+	"frame": {"x":1341,"y":784,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60001.png",
+	"frame": {"x":1665,"y":156,"w":99,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":25,"w":99,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60002.png",
+	"frame": {"x":825,"y":1,"w":95,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":26,"w":95,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60005.png",
+	"frame": {"x":1766,"y":156,"w":78,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":24,"w":78,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60006.png",
+	"frame": {"x":180,"y":469,"w":92,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":23,"w":92,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60007.png",
+	"frame": {"x":274,"y":469,"w":98,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":23,"w":98,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60008.png",
+	"frame": {"x":374,"y":469,"w":93,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":23,"w":93,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60009.png",
+	"frame": {"x":469,"y":469,"w":82,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":23,"w":82,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60010.png",
+	"frame": {"x":922,"y":1,"w":82,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":25,"w":82,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60013.png",
+	"frame": {"x":1006,"y":1,"w":100,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":26,"w":100,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60014.png",
+	"frame": {"x":1846,"y":156,"w":101,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":25,"w":101,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_60015.png",
+	"frame": {"x":1452,"y":784,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_70006.png",
+	"frame": {"x":343,"y":1736,"w":87,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":26,"w":87,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_70007.png",
+	"frame": {"x":973,"y":1417,"w":83,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":28,"w":83,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "block/crusader_block_70008.png",
+	"frame": {"x":432,"y":1736,"w":86,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":27,"w":86,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "death/crusader_death_00000.png",
+	"frame": {"x":1058,"y":1417,"w":72,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":22,"w":72,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "death/crusader_death_20000.png",
+	"frame": {"x":1563,"y":784,"w":103,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":24,"w":103,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "death/crusader_death_60000.png",
+	"frame": {"x":1668,"y":784,"w":103,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":24,"w":103,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "death/crusader_death_60001.png",
+	"frame": {"x":1108,"y":1,"w":103,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":27,"w":103,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_00000.png",
+	"frame": {"x":1132,"y":1417,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":73,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_00012.png",
+	"frame": {"x":1207,"y":1417,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":73,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_20000.png",
+	"frame": {"x":1773,"y":784,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_20001.png",
+	"frame": {"x":1884,"y":784,"w":107,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":24,"w":107,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_20002.png",
+	"frame": {"x":1,"y":942,"w":102,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":24,"w":102,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_20003.png",
+	"frame": {"x":553,"y":469,"w":95,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":25,"w":95,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_20009.png",
+	"frame": {"x":1,"y":312,"w":106,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":26,"w":106,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_20010.png",
+	"frame": {"x":105,"y":942,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":24,"w":108,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_20011.png",
+	"frame": {"x":215,"y":942,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_20012.png",
+	"frame": {"x":326,"y":942,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60000.png",
+	"frame": {"x":437,"y":942,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60001.png",
+	"frame": {"x":548,"y":942,"w":107,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":24,"w":107,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60002.png",
+	"frame": {"x":650,"y":469,"w":102,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":25,"w":102,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60003.png",
+	"frame": {"x":754,"y":469,"w":95,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":25,"w":95,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60004.png",
+	"frame": {"x":109,"y":312,"w":102,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":26,"w":102,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60009.png",
+	"frame": {"x":213,"y":312,"w":106,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":26,"w":106,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60010.png",
+	"frame": {"x":851,"y":469,"w":108,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":25,"w":108,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60011.png",
+	"frame": {"x":657,"y":942,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "got-hit/crusader_gothit_60012.png",
+	"frame": {"x":768,"y":942,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00000.png",
+	"frame": {"x":1282,"y":1417,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":73,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00001.png",
+	"frame": {"x":1357,"y":1417,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":73,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00002.png",
+	"frame": {"x":1432,"y":1417,"w":74,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":23,"w":74,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00003.png",
+	"frame": {"x":1508,"y":1417,"w":74,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":23,"w":74,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00004.png",
+	"frame": {"x":1584,"y":1417,"w":75,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":23,"w":75,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00005.png",
+	"frame": {"x":1661,"y":1417,"w":76,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":23,"w":76,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00006.png",
+	"frame": {"x":879,"y":942,"w":76,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":24,"w":76,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00007.png",
+	"frame": {"x":957,"y":942,"w":76,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":24,"w":76,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00008.png",
+	"frame": {"x":1035,"y":942,"w":76,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":24,"w":76,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00009.png",
+	"frame": {"x":1739,"y":1417,"w":76,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":23,"w":76,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00010.png",
+	"frame": {"x":1817,"y":1417,"w":75,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":23,"w":75,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00011.png",
+	"frame": {"x":1894,"y":1417,"w":75,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":23,"w":75,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00012.png",
+	"frame": {"x":1,"y":1576,"w":74,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":23,"w":74,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00013.png",
+	"frame": {"x":77,"y":1576,"w":74,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":23,"w":74,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00014.png",
+	"frame": {"x":153,"y":1576,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":73,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_00015.png",
+	"frame": {"x":228,"y":1576,"w":73,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":73,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20000.png",
+	"frame": {"x":303,"y":1576,"w":109,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":23,"w":109,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20001.png",
+	"frame": {"x":1113,"y":942,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":24,"w":108,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20002.png",
+	"frame": {"x":1223,"y":942,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":24,"w":108,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20003.png",
+	"frame": {"x":1333,"y":942,"w":106,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":24,"w":106,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20004.png",
+	"frame": {"x":1441,"y":942,"w":106,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":24,"w":106,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20005.png",
+	"frame": {"x":1549,"y":942,"w":105,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":24,"w":105,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20006.png",
+	"frame": {"x":1656,"y":942,"w":104,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":24,"w":104,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20007.png",
+	"frame": {"x":1762,"y":942,"w":104,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":24,"w":104,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20008.png",
+	"frame": {"x":1868,"y":942,"w":104,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":24,"w":104,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20009.png",
+	"frame": {"x":1,"y":1100,"w":105,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":24,"w":105,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20010.png",
+	"frame": {"x":108,"y":1100,"w":105,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":24,"w":105,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20011.png",
+	"frame": {"x":215,"y":1100,"w":106,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":24,"w":106,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20012.png",
+	"frame": {"x":323,"y":1100,"w":107,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":24,"w":107,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20013.png",
+	"frame": {"x":432,"y":1100,"w":107,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":24,"w":107,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20014.png",
+	"frame": {"x":541,"y":1100,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_20015.png",
+	"frame": {"x":414,"y":1576,"w":109,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":23,"w":109,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60000.png",
+	"frame": {"x":652,"y":1100,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60001.png",
+	"frame": {"x":763,"y":1100,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":24,"w":108,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60002.png",
+	"frame": {"x":873,"y":1100,"w":108,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":24,"w":108,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60003.png",
+	"frame": {"x":983,"y":1100,"w":106,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":24,"w":106,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60004.png",
+	"frame": {"x":961,"y":469,"w":106,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":25,"w":106,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60005.png",
+	"frame": {"x":1069,"y":469,"w":105,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":25,"w":105,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60006.png",
+	"frame": {"x":1176,"y":469,"w":104,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":25,"w":104,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60007.png",
+	"frame": {"x":1282,"y":469,"w":104,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":25,"w":104,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60008.png",
+	"frame": {"x":1388,"y":469,"w":104,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":25,"w":104,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60009.png",
+	"frame": {"x":1494,"y":469,"w":105,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":25,"w":105,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60010.png",
+	"frame": {"x":1601,"y":469,"w":105,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":25,"w":105,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60011.png",
+	"frame": {"x":1091,"y":1100,"w":106,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":24,"w":106,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60012.png",
+	"frame": {"x":1199,"y":1100,"w":107,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":24,"w":107,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60013.png",
+	"frame": {"x":1308,"y":1100,"w":107,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":24,"w":107,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60014.png",
+	"frame": {"x":1417,"y":1100,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "idle/crusader_idle_60015.png",
+	"frame": {"x":1528,"y":1100,"w":109,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":24,"w":109,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_00000.png",
+	"frame": {"x":525,"y":1576,"w":72,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":22,"w":72,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_00006.png",
+	"frame": {"x":321,"y":312,"w":69,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":26,"w":69,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_00009.png",
+	"frame": {"x":1708,"y":469,"w":91,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":16,"w":91,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_00011.png",
+	"frame": {"x":392,"y":312,"w":90,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":16,"w":90,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_00015.png",
+	"frame": {"x":599,"y":1576,"w":72,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":22,"w":72,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_10001.png",
+	"frame": {"x":1639,"y":1100,"w":73,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":27,"w":73,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_10006.png",
+	"frame": {"x":673,"y":1576,"w":91,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":27,"w":91,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_10009.png",
+	"frame": {"x":1714,"y":1100,"w":140,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":19,"w":140,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_10010.png",
+	"frame": {"x":1801,"y":469,"w":138,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":19,"w":138,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_10011.png",
+	"frame": {"x":484,"y":312,"w":137,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":20,"w":137,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_20000.png",
+	"frame": {"x":1856,"y":1100,"w":103,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":24,"w":103,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_20001.png",
+	"frame": {"x":1213,"y":1,"w":105,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":27,"w":105,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_20007.png",
+	"frame": {"x":1320,"y":1,"w":112,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":27,"w":112,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_20013.png",
+	"frame": {"x":623,"y":312,"w":114,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":26,"w":114,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_20014.png",
+	"frame": {"x":1,"y":1258,"w":110,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":24,"w":110,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_20015.png",
+	"frame": {"x":113,"y":1258,"w":103,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":24,"w":103,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_40006.png",
+	"frame": {"x":766,"y":1576,"w":69,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":14,"w":69,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_40014.png",
+	"frame": {"x":1941,"y":469,"w":66,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":16,"w":66,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_50007.png",
+	"frame": {"x":520,"y":1736,"w":116,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":17,"w":116,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_50014.png",
+	"frame": {"x":1,"y":626,"w":84,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":20,"w":84,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_60000.png",
+	"frame": {"x":218,"y":1258,"w":103,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":24,"w":103,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_60001.png",
+	"frame": {"x":1434,"y":1,"w":105,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":27,"w":105,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_60014.png",
+	"frame": {"x":87,"y":626,"w":110,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":25,"w":110,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_60015.png",
+	"frame": {"x":323,"y":1258,"w":103,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":24,"w":103,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_70001.png",
+	"frame": {"x":428,"y":1258,"w":106,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":27,"w":106,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "jump/crusader_jump_70006.png",
+	"frame": {"x":837,"y":1576,"w":88,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":27,"w":88,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_30001.png",
+	"frame": {"x":638,"y":1736,"w":96,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":108,"y":22,"w":96,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_30002.png",
+	"frame": {"x":199,"y":626,"w":96,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":22,"w":96,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_30003.png",
+	"frame": {"x":1541,"y":1,"w":98,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":22,"w":98,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_30004.png",
+	"frame": {"x":739,"y":312,"w":102,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":22,"w":102,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_30005.png",
+	"frame": {"x":843,"y":312,"w":106,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":22,"w":106,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_30009.png",
+	"frame": {"x":536,"y":1258,"w":118,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":20,"w":118,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_30010.png",
+	"frame": {"x":1641,"y":1,"w":121,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":21,"w":121,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_30015.png",
+	"frame": {"x":297,"y":626,"w":97,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":22,"w":97,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40003.png",
+	"frame": {"x":736,"y":1736,"w":71,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":20,"w":71,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40004.png",
+	"frame": {"x":656,"y":1258,"w":71,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":21,"w":71,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40005.png",
+	"frame": {"x":1764,"y":1,"w":72,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":20,"w":72,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40006.png",
+	"frame": {"x":1838,"y":1,"w":71,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":20,"w":71,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40007.png",
+	"frame": {"x":951,"y":312,"w":70,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":19,"w":70,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40008.png",
+	"frame": {"x":1023,"y":312,"w":72,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":19,"w":72,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40011.png",
+	"frame": {"x":809,"y":1736,"w":71,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":21,"w":71,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40012.png",
+	"frame": {"x":882,"y":1736,"w":71,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":21,"w":71,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40013.png",
+	"frame": {"x":927,"y":1576,"w":71,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":21,"w":71,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40014.png",
+	"frame": {"x":955,"y":1736,"w":71,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":20,"w":71,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_40015.png",
+	"frame": {"x":729,"y":1258,"w":69,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":20,"w":69,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50000.png",
+	"frame": {"x":800,"y":1258,"w":115,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":20,"w":115,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50001.png",
+	"frame": {"x":396,"y":626,"w":116,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":21,"w":116,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50002.png",
+	"frame": {"x":1911,"y":1,"w":112,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":21,"w":112,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50007.png",
+	"frame": {"x":1,"y":156,"w":71,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":21,"w":71,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50008.png",
+	"frame": {"x":514,"y":626,"w":71,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":21,"w":71,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50010.png",
+	"frame": {"x":917,"y":1258,"w":78,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":22,"w":78,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50012.png",
+	"frame": {"x":74,"y":156,"w":77,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":23,"w":77,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50013.png",
+	"frame": {"x":153,"y":156,"w":80,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":22,"w":80,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50014.png",
+	"frame": {"x":1000,"y":1576,"w":83,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":22,"w":83,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "run/crusader_run_50016.png",
+	"frame": {"x":997,"y":1258,"w":115,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":72,"y":20,"w":115,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00000.png",
+	"frame": {"x":1085,"y":1576,"w":72,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":23,"w":72,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00001.png",
+	"frame": {"x":1114,"y":1258,"w":72,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":24,"w":72,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00002.png",
+	"frame": {"x":587,"y":626,"w":72,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":24,"w":72,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00003.png",
+	"frame": {"x":661,"y":626,"w":72,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":24,"w":72,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00006.png",
+	"frame": {"x":1028,"y":1736,"w":74,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":23,"w":74,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00007.png",
+	"frame": {"x":1104,"y":1736,"w":75,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":22,"w":75,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00008.png",
+	"frame": {"x":1181,"y":1736,"w":75,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":23,"w":75,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00009.png",
+	"frame": {"x":735,"y":626,"w":76,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":24,"w":76,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00010.png",
+	"frame": {"x":1097,"y":312,"w":77,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":25,"w":77,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_00014.png",
+	"frame": {"x":1159,"y":1576,"w":74,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":24,"w":74,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10000.png",
+	"frame": {"x":1258,"y":1736,"w":84,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":23,"w":84,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10001.png",
+	"frame": {"x":1235,"y":1576,"w":87,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":24,"w":87,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10002.png",
+	"frame": {"x":813,"y":626,"w":88,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":24,"w":88,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10003.png",
+	"frame": {"x":903,"y":626,"w":87,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":25,"w":87,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10007.png",
+	"frame": {"x":1324,"y":1576,"w":84,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":23,"w":84,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10008.png",
+	"frame": {"x":1188,"y":1258,"w":83,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":24,"w":83,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10009.png",
+	"frame": {"x":992,"y":626,"w":82,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":24,"w":82,"h":155},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10010.png",
+	"frame": {"x":235,"y":156,"w":81,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":25,"w":81,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10013.png",
+	"frame": {"x":1176,"y":312,"w":83,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":24,"w":83,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_10014.png",
+	"frame": {"x":1273,"y":1258,"w":83,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":24,"w":83,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_60006.png",
+	"frame": {"x":318,"y":156,"w":111,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":23,"w":111,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70000.png",
+	"frame": {"x":1410,"y":1576,"w":99,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":85,"y":24,"w":99,"h":157},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70001.png",
+	"frame": {"x":1261,"y":312,"w":91,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":25,"w":91,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70002.png",
+	"frame": {"x":431,"y":156,"w":88,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":25,"w":88,"h":153},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70005.png",
+	"frame": {"x":1354,"y":312,"w":102,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":23,"w":102,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70006.png",
+	"frame": {"x":1358,"y":1258,"w":106,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":23,"w":106,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70008.png",
+	"frame": {"x":1344,"y":1736,"w":108,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":23,"w":108,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70009.png",
+	"frame": {"x":1466,"y":1258,"w":105,"h":156},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":24,"w":105,"h":156},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70010.png",
+	"frame": {"x":1458,"y":312,"w":105,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":25,"w":105,"h":154},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70011.png",
+	"frame": {"x":1454,"y":1736,"w":106,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":26,"w":106,"h":158},
+	"sourceSize": {"w":299,"h":240}
+},
+{
+	"filename": "walk/crusader_walk_70014.png",
+	"frame": {"x":1562,"y":1736,"w":102,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":24,"w":102,"h":158},
+	"sourceSize": {"w":299,"h":240}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Crusader-0-2.png",
+	"format": "RGBA8888",
+	"size": {"w":2037,"h":1896},
+	"scale": "1",
+	"related_multi_packs": [ "Crusader-0-0.json", "Crusader-0-1.json", "Crusader-0-3.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:20fbcf4438fdaf6e0d543b7ae5dc4d7b:4dc995d14d8cdae6f0686ef2ecd3848c:829ffded09211acf856ad820d01bb7d1$"
+}
+}
