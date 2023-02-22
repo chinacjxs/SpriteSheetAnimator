@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -21,7 +22,28 @@ public class Crusader : MonoBehaviour
     [SerializeField]
     string m_CurrentAnimationName;
 
-    void Update()
+    static List<Action> m_Actions = new List<Action>();
+    static Coroutine m_Coroutine = null;
+
+    void Start()
+    {
+        m_Actions.Add(InputLogic);
+        if (m_Coroutine == null)
+            m_Coroutine = StartCoroutine(InputProcess());
+        
+    }
+
+    IEnumerator InputProcess()
+    {
+        while (true)
+        {
+            yield return null;
+            foreach (var item in m_Actions)
+                item();
+        }
+    }
+
+    void InputLogic()
     {
         m_Horizontal = Input.GetAxis("Horizontal");
         m_Vertical = Input.GetAxis("Vertical");

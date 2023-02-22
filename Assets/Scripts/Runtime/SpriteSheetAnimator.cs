@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -28,6 +29,18 @@ public class SpriteSheetAnimator : MonoBehaviour
 
     bool m_IsPlaying = false;
 
+    const string kSpriteSheetAnimator = "SpriteSheetAnimator";
+
+    void Start()
+    {
+        UpdateLauncher.Instance.GetLauncher(kSpriteSheetAnimator).DoUpdate(this, UpdateAnimation);
+    }
+
+    //void Update()
+    //{
+    //    UpdateAnimation();    
+    //}
+
     public void Play(string name)
     {
         var animationClip = m_SpriteAnimation.GetSpriteAnimationClip(name);
@@ -47,7 +60,7 @@ public class SpriteSheetAnimator : MonoBehaviour
             m_SpriteRenderer.sprite = m_SpriteAnimationClip.sprites[index];
     }
 
-    void LateUpdate()
+    void UpdateAnimation()
     {
         if(m_IsPlaying)
         {
