@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(SpriteRenderer))]
-public class SpriteSheetAnimator : MonoBehaviour
+public class SpriteSheetAnimator : MonoBehaviour,IUpdatable
 {
     [SerializeField]
     SpriteRenderer m_SpriteRenderer;
@@ -31,14 +31,16 @@ public class SpriteSheetAnimator : MonoBehaviour
 
     const string kSpriteSheetAnimator = "SpriteSheetAnimator";
 
+    bool m_IsDestroyed = false;
+
     void Start()
     {
-        UpdateLauncher.Instance.GetLauncher(kSpriteSheetAnimator).DoUpdate(this, UpdateAnimation);
+        UpdateManager.Instance.GetManager(kSpriteSheetAnimator).DoUpdate(this);
     }
 
     //void Update()
     //{
-    //    UpdateAnimation();    
+    //    UpdateAnimation();
     //}
 
     public void Play(string name)
@@ -87,4 +89,18 @@ public class SpriteSheetAnimator : MonoBehaviour
             }
         } 
     }
+
+    void OnDestroy()
+    {
+        m_IsDestroyed = true;
+    }
+
+    void IUpdatable.OnUpdate(string type)
+    {
+        UpdateAnimation();
+    }
+
+    bool IUpdatable.isActiveAndEnabled => isActiveAndEnabled;
+
+    bool IUpdatable.isDestroyed => m_IsDestroyed;
 }
