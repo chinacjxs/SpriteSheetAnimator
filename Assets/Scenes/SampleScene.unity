@@ -166,8 +166,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Template: {fileID: 3331951425029207396, guid: e832b4bd93e337e45b9058dae8ce4564,
     type: 3}
-  m_Width: 100
-  m_Height: 100
+  m_Width: 50
+  m_Height: 50
   m_Space: 1
 --- !u!1 &705507993
 GameObject:
