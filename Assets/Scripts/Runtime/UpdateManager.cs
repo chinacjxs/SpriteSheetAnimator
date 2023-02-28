@@ -8,76 +8,15 @@ public interface IUpdateReceiver
 
     bool isDestroyed { get; }
 
-    void OnUpdateReceive(string str);
+    void OnUpdateReceive(string param);
 }
 
 public abstract class MonoUpdateReceiver : MonoBehaviour, IUpdateReceiver
 {
     public abstract string Name { get; }
 
-    int m_UpdateIdentity = 0;
-
-    int m_LateUpdateIdentity = 0;
-
-    int m_FixedUpdateIdentity = 0;
-
-    public bool UpdateState
-    {
-        get
-        {
-            return m_UpdateIdentity != 0;
-        }
-        set
-        {
-            if(value && m_UpdateIdentity == 0)
-                m_UpdateIdentity = UpdateManager.Instance.GetManager(Name).DoUpdate(this);
-
-            if(!value && m_UpdateIdentity != 0)
-            {
-                UpdateManager.Instance.GetManager(Name).RemoveUpdate(m_UpdateIdentity);
-                m_UpdateIdentity = 0;
-            }
-        }
-    }
-
-    public bool LateUpdateState
-    {
-        get
-        {
-            return m_LateUpdateIdentity != 0;
-        }
-        set
-        {
-            if (value && m_LateUpdateIdentity == 0)
-                m_LateUpdateIdentity = UpdateManager.Instance.GetManager(Name).DoLateUpdate(this);
-
-            if (!value && m_LateUpdateIdentity != 0)
-            {
-                UpdateManager.Instance.GetManager(Name).RemoveLateUpdate(m_LateUpdateIdentity);
-                m_LateUpdateIdentity = 0;
-            }
-        }
-    }
-
-    public bool FixedUpdateState
-    {
-        get
-        {
-            return m_FixedUpdateIdentity != 0;
-        }
-        set
-        {
-            if (value && m_FixedUpdateIdentity == 0)
-                m_FixedUpdateIdentity = UpdateManager.Instance.GetManager(Name).DoFixedUpdate(this);
-
-            if (!value && m_FixedUpdateIdentity != 0)
-            {
-                UpdateManager.Instance.GetManager(Name).RemoveFixedUpdate(m_FixedUpdateIdentity);
-                m_FixedUpdateIdentity = 0;
-            }
-        }
-    }
-
+    Dictionary<string, int> valuePairs = new Dictionary<string, int>();
+    
     bool m_isDestroyed = false;
 
     bool IUpdateReceiver.isActiveAndEnabled => isActiveAndEnabled;
@@ -104,6 +43,28 @@ public abstract class MonoUpdateReceiver : MonoBehaviour, IUpdateReceiver
     protected virtual void OnLateUpdate() { }
 
     protected virtual void OnFixedUpdate() { }
+    
+    public void SetUpdateState(bool state, string param)
+    {
+        int identity = 0;
+        if (!valuePairs.TryGetValue(param, out identity))
+            valuePairs.Add(param, identity);
+
+        if(state && identity == 0)
+            valuePairs[param] = UpdateManager.Instance.GetManager(Name).DoUpdate(this, param);
+        if (!state && identity != 0)
+        {
+            UpdateManager.Instance.GetManager(Name).RemoveUpdate(identity, param);
+            valuePairs[param] = 0;
+        }
+    }
+
+    public bool GetUpdateState(string param)
+    {
+        if (valuePairs.TryGetValue(param, out int identity))
+            return identity != 0;
+        return false;
+    }
 }
 
 public class UpdateManager : MonoBehaviour
@@ -148,6 +109,8 @@ public class UpdateManager : MonoBehaviour
 
     float lastUpdateTime = 0f;
 
+    float threshold = 0.003f;
+
     LinkedListNode<IUpdateReceiver> m_UpdateFirst;
 
     LinkedListNode<IUpdateReceiver> m_LateUpdateFirst;
@@ -165,57 +128,47 @@ public class UpdateManager : MonoBehaviour
         return launcher;
     }
 
-    public int DoUpdate(IUpdateReceiver receiver)
+    public int DoUpdate(IUpdateReceiver receiver ,string param)
     {
         if (receiver == null)
             return 0;
-        m_ReceiverPairs.Add(++identity,m_Update.AddLast(receiver));
+
+        LinkedList<IUpdateReceiver> list = null;
+        if (param == kStrUpdate)
+            list = m_Update;
+        else if (param == kStrLateUpdate)
+            list = m_LateUpdate;
+        else if (param == kStrFixedUpdate)
+            list = m_FixedUpdate;
+
+        m_ReceiverPairs.Add(++identity, list.AddLast(receiver));
         return identity;
     }
 
-    public int DoLateUpdate(IUpdateReceiver receiver)
-    {
-        if (receiver == null)
-            return 0;
-        m_ReceiverPairs.Add(++identity, m_LateUpdate.AddLast(receiver));
-        return identity;
-    }
-
-    public int DoFixedUpdate(IUpdateReceiver receiver)
-    {
-        if (receiver == null)
-            return 0;
-        m_ReceiverPairs.Add(++identity, m_FixedUpdate.AddLast(receiver));
-        return identity;
-    }
-
-    public void RemoveUpdate(int id)
+    public void RemoveUpdate(int id,string param)
     {
         if (m_ReceiverPairs.TryGetValue(id,out LinkedListNode<IUpdateReceiver> receiver))
         {
-            if (receiver == m_UpdateFirst)
-                m_UpdateFirst = receiver.Next;
-            m_Update.Remove(receiver);
-        }
-    }
+            m_ReceiverPairs.Remove(id);
 
-    public void RemoveLateUpdate(int id)
-    {
-        if (m_ReceiverPairs.TryGetValue(id, out LinkedListNode<IUpdateReceiver> receiver))
-        {
-            if (receiver == m_LateUpdateFirst)
-                m_LateUpdateFirst = receiver.Next;
-            m_LateUpdate.Remove(receiver);
-        }
-    }
-
-    public void RemoveFixedUpdate(int id)
-    {
-        if (m_ReceiverPairs.TryGetValue(id, out LinkedListNode<IUpdateReceiver> receiver))
-        {
-            if (receiver == m_FixedUpdateFirst)
-                m_FixedUpdateFirst = receiver.Next;
-            m_FixedUpdate.Remove(receiver);
+            if (param == kStrUpdate)
+            {
+                if (receiver == m_UpdateFirst)
+                    m_UpdateFirst = receiver.Next;
+                m_Update.Remove(receiver);
+            }
+            else if(param == kStrLateUpdate)
+            {
+                if (receiver == m_LateUpdateFirst)
+                    m_LateUpdateFirst = receiver.Next;
+                m_LateUpdate.Remove(receiver);
+            }
+            else if(param == kStrFixedUpdate)
+            {
+                if (receiver == m_FixedUpdateFirst)
+                    m_FixedUpdateFirst = receiver.Next;
+                m_FixedUpdate.Remove(receiver);
+            }
         }
     }
 
@@ -245,37 +198,37 @@ public class UpdateManager : MonoBehaviour
         CallUpdateMethod(m_FixedUpdate,ref m_FixedUpdateFirst,kStrFixedUpdate);
     }
 
-    void CallUpdateMethod(LinkedList<IUpdateReceiver> list,ref LinkedListNode<IUpdateReceiver> pFirst,string str)
+    void CallUpdateMethod(LinkedList<IUpdateReceiver> list,ref LinkedListNode<IUpdateReceiver> first,string param)
     {
-        LinkedListNode<IUpdateReceiver> pLast = list.Last;
-        LinkedListNode<IUpdateReceiver> pNext = null;
+        LinkedListNode<IUpdateReceiver> last = list.Last;
+        LinkedListNode<IUpdateReceiver> next = null;
 
         lastUpdateTime = Time.realtimeSinceStartup;
-        pFirst = (pFirst == null || pFirst == pLast) ? list.First : pFirst;
+        first = (first == null || first == last) ? list.First : first;
 
-        while (pFirst != pLast)
+        while (first != last)
         {
-            var obj = pFirst.Value;
-            pNext = pFirst.Next;
+            var obj = first.Value;
+            next = first.Next;
 
             if (obj == null || obj.isDestroyed)
-                list.Remove(pFirst);
+                list.Remove(first);
             else
             {
                 if (obj.isActiveAndEnabled)
                 {
                     try
                     {
-                        obj.OnUpdateReceive(str);
+                        obj.OnUpdateReceive(param);
                     }
                     catch (Exception)
                     {
-                        list.Remove(pFirst);
+                        list.Remove(first);
                     }
                 }
             }
 
-            pFirst = pNext;
+            first = next;
 
             if (Busy)
                 break;

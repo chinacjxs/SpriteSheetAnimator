@@ -166,7 +166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Template: {fileID: 3331951425029207396, guid: e832b4bd93e337e45b9058dae8ce4564,
     type: 3}
-  m_Width: 50
+  m_Width: 100
   m_Height: 50
   m_Space: 1
 --- !u!1 &705507993
@@ -337,10 +337,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0.15334438, y: -0.06704883, z: 0.010422667, w: -0.9858404}
-  m_LocalPosition: {x: -28.487722, y: 3.6526022, z: -10.77668}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 10, z: -40}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 24.12, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

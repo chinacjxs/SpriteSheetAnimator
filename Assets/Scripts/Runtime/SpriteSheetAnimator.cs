@@ -33,7 +33,7 @@ public class SpriteSheetAnimator : MonoUpdateReceiver
 
     private void Start()
     {
-        UpdateState = true;
+        SetUpdateState(true, UpdateManager.kStrUpdate);
     }
 
     protected override void OnUpdate()
