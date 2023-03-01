@@ -22,7 +22,7 @@ public class SpriteSheetAnimation : ScriptableObject,ISerializationCallbackRecei
     [SerializeField]
     List<SpriteAnimationClip> m_Clips = new List<SpriteAnimationClip>();
 
-    Dictionary<string, SpriteAnimationClip> pairs = new Dictionary<string, SpriteAnimationClip>();
+    Dictionary<string, SpriteAnimationClip> m_Pairs = new Dictionary<string, SpriteAnimationClip>();
 
     public void SetAllSprites(UnityEngine.Object[] sprites,string pattern)
     {
@@ -88,33 +88,46 @@ public class SpriteSheetAnimation : ScriptableObject,ISerializationCallbackRecei
             }
         }
 
-        m_Clips.Clear();
         foreach (var item in dict1)
         {
-            SpriteAnimationClip clip = new SpriteAnimationClip();
-            clip.name = item.Key;
+            SpriteAnimationClip clip;
+            if(!m_Pairs.TryGetValue(item.Key,out clip))
+            {
+                clip = new SpriteAnimationClip() { name = item.Key };
+                m_Pairs.Add(item.Key, clip);
+            }
             clip.sprites = item.Value.ToArray();
-            m_Clips.Add(clip);
         }
+
+        List<string> list = new List<string>();
+        foreach (var item in m_Pairs)
+        {
+            if (!dict1.ContainsKey(item.Key))
+                list.Add(item.Key);
+        }
+
+        foreach (var item in list)
+            m_Pairs.Remove(item);
     }
     
     public SpriteAnimationClip GetSpriteAnimationClip(string name)
     {
-        if (pairs.TryGetValue(name, out SpriteAnimationClip clip))
+        if (m_Pairs.TryGetValue(name, out SpriteAnimationClip clip))
             return clip;
         return null;
     }
 
     void ISerializationCallbackReceiver.OnBeforeSerialize()
     {
-
+        m_Clips.Clear();
+        foreach (var item in m_Pairs)
+            m_Clips.Add(item.Value);
     }
 
     void ISerializationCallbackReceiver.OnAfterDeserialize()
     {
-        pairs.Clear();
-
+        m_Pairs.Clear();
         for (int i = 0; i < m_Clips.Count; i++)
-            pairs.Add(m_Clips[i].name, m_Clips[i]);
+            m_Pairs.Add(m_Clips[i].name, m_Clips[i]);
     }
 }
