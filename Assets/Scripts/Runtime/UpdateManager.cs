@@ -109,7 +109,7 @@ public class UpdateManager : MonoBehaviour
 
     float lastUpdateTime = 0f;
 
-    float threshold = 0.003f;
+    public float BusyThreshold { get; set; } = -1f;
 
     LinkedListNode<IUpdateReceiver> m_UpdateFirst;
 
@@ -172,7 +172,7 @@ public class UpdateManager : MonoBehaviour
         }
     }
 
-    public bool Busy => Time.realtimeSinceStartup - lastUpdateTime >= 0.003f;
+    public bool Busy => BusyThreshold <= 0 ? false : Time.realtimeSinceStartup - lastUpdateTime >= BusyThreshold;
 
     void Awake()
     {
