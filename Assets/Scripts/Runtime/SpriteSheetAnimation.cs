@@ -4,18 +4,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Text.RegularExpressions;
 
-[System.Serializable]
-public class SpriteAnimationClip
-{
-    public string name;
-
-    public Sprite[] sprites;
-
-    public int fps = 24;
-
-    public bool loop = true;
-}
-
 [CreateAssetMenu()]
 public class SpriteSheetAnimation : ScriptableObject,ISerializationCallbackReceiver
 {
@@ -117,17 +105,17 @@ public class SpriteSheetAnimation : ScriptableObject,ISerializationCallbackRecei
         return null;
     }
 
-    void ISerializationCallbackReceiver.OnBeforeSerialize()
-    {
-        m_Clips.Clear();
-        foreach (var item in m_Pairs)
-            m_Clips.Add(item.Value);
-    }
-
     void ISerializationCallbackReceiver.OnAfterDeserialize()
     {
         m_Pairs.Clear();
         for (int i = 0; i < m_Clips.Count; i++)
             m_Pairs.Add(m_Clips[i].name, m_Clips[i]);
+    }
+
+    void ISerializationCallbackReceiver.OnBeforeSerialize()
+    {
+        m_Clips.Clear();
+        foreach (var item in m_Pairs)
+            m_Clips.Add(item.Value);
     }
 }
